@@ -1,4 +1,6 @@
 - Crated React app using React libraies
+- github link: https://github.com/sivaram6411/shopping-cart-and-reviews-section
+- App Url: https://shopingcartshiv.netlify.app/
 - Technologies Used
 
   - nodeJs
