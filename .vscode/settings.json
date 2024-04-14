@@ -1,0 +1,7 @@
+{
+  "files.autoSave": "afterDelay",
+  "prettier.bracketSameLine": true,
+  "editor.formatOnSave": true,
+  "notebook.formatOnSave.enabled": false,
+  "autoimport.absolute": true
+}
